@@ -1,5 +1,11 @@
 #include <QCoreApplication>
 
+class stack
+{
+public:
+    void pop();
+};
+
 struct apple
 {
     int size;
